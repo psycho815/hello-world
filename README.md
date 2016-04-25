@@ -5,5 +5,5 @@
 
 ## Tools
 - [markdown指南](./tools/markdown.md)
-- [markdown-github命令](./tools/markdown-github.md)
+- [git命令](./tools/markdown-github.md)
 
