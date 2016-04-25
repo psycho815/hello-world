@@ -1,5 +1,4 @@
-# 命令
-
+# git命令
 
 - 线上更改时先执行 $git pull
 - $ git add RADME 或者  $ git add .
