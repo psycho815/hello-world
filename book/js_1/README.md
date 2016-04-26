@@ -16,3 +16,13 @@
 [八、BOM](page/8.md)
 
 [九、客户端检测](page/9.md)
+
+**附录方法**
+[typeof](page/3.4.md#typeof)
+Boolean()
+isNaN()
+Number()
+parseInt()
+parseFloat()
+toString()方法
+String()
