@@ -21,16 +21,16 @@
 
 [typeof](page/3.4.md#typeof)
 
-Boolean()
+[Boolean()](page/3.4.md#boolean)
 
-isNaN()
+[isNaN()](page/3.4.md#isnan)
 
-Number()
+[Number()](page/3.4.md#number)
 
-parseInt()
+[parseInt()](page/3.4.md#parseInt)
 
-parseFloat()
+[parseFloat()](page/3.4.md#parseFloat)
 
-toString()方法
+[toString()](page/3.4.md#toString)方法
 
-String()
+[String()](page/3.4.md#string)
