@@ -18,6 +18,7 @@
 [九、客户端检测](page/9.md)
 
 **附录方法**
+
 [typeof](page/3.4.md#typeof)
 
 Boolean()
