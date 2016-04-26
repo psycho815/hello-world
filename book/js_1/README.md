@@ -19,10 +19,17 @@
 
 **附录方法**
 [typeof](page/3.4.md#typeof)
+
 Boolean()
+
 isNaN()
+
 Number()
+
 parseInt()
+
 parseFloat()
+
 toString()方法
+
 String()
