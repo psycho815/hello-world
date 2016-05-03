@@ -1,6 +1,7 @@
 # git命令
 
 - $ git init 新建repository文件后执行 
+- $ git remote add origin git@github.com:psycho815/gulp-workflow.git 添加远程地址
 - $ git pull 线上更改时先执行 
 - $ git add RADME 或者  $ git add .
 - $ git commit -m 'first commit'

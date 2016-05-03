@@ -5,7 +5,7 @@
 
 ## Tools
 - [markdown指南](./tools/markdown.md)
-- [git命令](./tools/git.md)
+- [git命令和使用](./tools/git.md)
 
 ## Notes
 [bug](./notes/bug.md)
