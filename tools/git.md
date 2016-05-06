@@ -3,7 +3,14 @@
 - $ git init 新建repository文件后执行 
 - $ git remote add origin git@github.com:psycho815/gulp-workflow.git 添加远程地址
 - $ git pull 线上更改时先执行 
-- $ git add RADME 或者  $ git add .
+- $ git add RADME 或者  $ git add .  
+- $ git add -u   add to index only files modified or deleted and not those created 
+- $git add -u [<path>]: 把<path>中所有tracked文件中被修改过或已删除文件的信息添加到索引库。它不会处理untracted的文件。
+省略<path>表示.,即当前目录。
+- $git add -A: [<path>]表示把<path>中所有tracked文件中被修改过或已删除文件和所有untracted的文件信息添加到索引库。
+省略<path>表示.,即当前目录。
+- $git add -i [<path>]命令查看<path>中被所有修改过或已删除文件但没有提交的文件，
+并通过其revert子命令可以查看<path>中所有untracted的文件，同时进入一个子命令系统。
 - $ git commit -m 'first commit'
 - $ git push origin master
 
