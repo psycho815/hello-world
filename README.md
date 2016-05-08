@@ -8,6 +8,6 @@
 - [git命令和使用](./tools/git.md)
 
 ## Notes
-- [bug](./notes/bug.md)
+- [mobile](./notes/mobile.md)
 - [interview](./notes/interview.md)
 
