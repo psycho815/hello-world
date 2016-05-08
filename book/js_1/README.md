@@ -20,6 +20,7 @@
 **附录方法**
 
 [typeof](page/3.4.md#typeof)
+确定一个值是哪种基本类型可以使用typeof操作符，而确定一个值是哪种引用类型可以使用instanceof操作符
 
 [Boolean()](page/3.4.md#boolean)
 
