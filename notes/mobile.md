@@ -1,9 +1,12 @@
 #mobile
 *注意：此页面css3属性均只列出-webkit前缀*
+
+***
 **一.head**
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0"/>
 
+***
 **二.reset**
 
     font-family: "Helvetica Neue", Helvetica, STHeiTi, sans-serif; /* 使用无衬线字体，应用于body */
@@ -14,6 +17,7 @@
     -webkit-tap-highlight-color: rgba(0,0,0,0); /* 去掉点击背景 */
     -webkit-appearance:none /*表单控件样式重置 */
 
+***
 **三.bug**
 
 1.问题：选择框select在mac系统点击无效。
