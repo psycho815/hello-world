@@ -10,4 +10,5 @@
 ## Notes
 - [mobile](./notes/mobile.md)
 - [interview](./notes/interview.md)
+- [link](./notes/link.md)
 
