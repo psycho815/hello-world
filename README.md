@@ -5,8 +5,8 @@
 - [《javascript设计模式javascript标准参考教材 by 阮一峰》](http://javascript.ruanyifeng.com/)
 
 ***
-### 业余
-- [《旅行日记》]
+### 其他
+- [《旅行日记》](/book)
 
 ## Tools
 - [markdown指南](./tools/markdown.md)
