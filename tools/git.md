@@ -56,4 +56,28 @@ Hi psycho815! You've successfully authenticated, but GitHub does not provide sll
 
 **步骤六：**执行add commit push等命令
 
+***
 
+# 创建一个repository流程
+
+1. 在github上新建 “New repository”，例如：articles
+2. 本地目录新建articles，并右键'Git Bush Here'执行
+3. 执行以下命令
+
+'
+
+        echo "# articles" >> README.md
+        git init
+        git add README.md
+        git commit -m "first commit"
+        git remote add origin git@github.com:psycho815/articles.git
+        git push -u origin master
+
+4. 执行
+
+'
+
+        $ git commit -m 'message'
+        $ git push origin master
+
+注意：线上更改时先执行 $ git pull
