@@ -13,6 +13,8 @@
 - [git命令和使用](./tools/git.md)
 
 ## Notes
+- [js笔记](./notes/js)
+- [css笔记](./notes/css)
 - [mobile](./notes/mobile.md)
 - [interview](./notes/interview.md)
 - [link](./notes/link.md)
