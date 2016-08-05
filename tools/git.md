@@ -77,7 +77,8 @@ Hi psycho815! You've successfully authenticated, but GitHub does not provide sll
 
 '
 
-        $ git commit -m 'message'  //执行报错Changes not staged for commit: 先执行 $ git add .
+        $ git add .
+        $ git commit -m 'message'
         $ git push origin master
 
 注意：线上更改时先执行 $ git pull
