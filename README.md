@@ -9,7 +9,7 @@
 - [《旅行日记》](/book)
 
 ## Tools
-- [sublime-text](./tools/sublime-text.md)
+- [sublime-text使用](./tools/sublime-text.md)
 - [markdown指南](./tools/markdown.md)
 - [git命令和使用](./tools/git.md)
 
