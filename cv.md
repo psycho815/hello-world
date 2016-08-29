@@ -28,7 +28,7 @@
 - 开发环境及后台：sublime text 3/php
 - 项目难点：1、smarty模板引擎的使用，统一平台数据变量 2、抽离公共应用模块 3、使用grunt结合后台实现自动化打包上传到发布环境。
 
-### 3、手游，页游平台[官网](http://c.gm99.com/d9)，[活动](http://mevents.gm99.com/event/ExchangeGameCode)，[泰国储值](http://mstore.gmthai.com/)，facebook等日常业务([新闻生成器](http://events.gm99.com/activity/newsapp))，[用户中心接口改造](http://mpassport.gm99.com/center/mobile)等
+### 3、手游，页游平台[官网](http://c.gm99.com/d9)[手机端示例](http://c.gm99.com/d9/mobile)，[活动](http://mevents.gm99.com/event/ExchangeGameCode)，[泰国储值](http://mstore.gmthai.com/)，facebook等日常业务([新闻生成器](http://events.gm99.com/activity/newsapp))，[用户中心接口改造](http://mpassport.gm99.com/center/mobile)等
 - 项目难点：1、手机app，官网，活动等页面适配测试  2、facebook api学习 
 
 ## （2011.09 － 2015.04）广东长宝信息科技股份有限公司——前端开发工程师
