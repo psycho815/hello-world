@@ -10,7 +10,7 @@
 - 工作年限：4年
 - Github：[https://github.com/psycho815](https://github.com/psycho815)
 - 期望职位：Web前端工程师
-- 期望薪资：税前月薪12k
+- 期望薪资：税前月薪13k~15k
 - 期望城市：广州·番禺
 
 ***
@@ -51,7 +51,7 @@
 - 在公司现有平台基础上独立设计以及实现企业网站，对客户网站的一条龙服务。
 
 ## （2010.6 － 2010.12）拓维信息系统股份有限公司——实习java开发程序员
-- java当时流行的一些环境和框架的学习和实践：MyEclipse，SpringMVC，struts2等
+- java一些环境和框架的学习和实践：MyEclipse，SpringMVC，struts2等
 
 ***
 # 技能清单
