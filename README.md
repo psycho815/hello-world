@@ -2,9 +2,9 @@
 
 ***
 ## Tools
-- [sublime text3使用](./tools/sublime-text.md)
-- [markdown指南](./tools/markdown.md)
-- [git命令和使用](./tools/git.md)
+- [sublime text3](./tools/sublime-text.md)
+- [markdown](./tools/markdown.md)
+- [git](./tools/git.md)
 - [stackedit](./tools/stackedit.md)
 
 ## Notes
