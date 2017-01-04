@@ -11,4 +11,4 @@
 - [js笔记](./notes/js)
 - [css笔记](./notes/css)
 - [ps笔记](./notes/ps)
-
+- [photo笔记](./notes/photo)
