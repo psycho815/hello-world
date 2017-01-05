@@ -77,6 +77,7 @@ Hi psycho815! You've successfully authenticated, but GitHub does not provide sll
 
 '
 
+        $ git pull
         $ git add .
         $ git commit -m 'message'
         $ git push origin master
