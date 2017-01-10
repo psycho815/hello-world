@@ -9,4 +9,5 @@
 - [stackedit](./tools/stackedit.md)
 
 ## Notes
-- 
+- [regret](./notes/regret.md)
+- [todo-not-todo](./notes/todo-not-todo.md)
