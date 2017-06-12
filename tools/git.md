@@ -24,6 +24,8 @@ windows用户请下载 [http://msysgit.github.com/](http://msysgit.github.com/)
 mac用户请下载 [http://code.google.com/p/tortoisegit/](http://code.google.com/p/tortoisegit/)
 安装完成后，右键会多出一些菜单。如 Git Init Hear、Git Bash、Git Gui ， 说明安装成功。
 
+注意：按照到在“Adjusting your PATH environment”选项中一步。选择第一个“Use Git Bash Only ”
+
 **步骤三：**本地新建'hello-world'文件夹并右键'Git Bush Here'执行
 
     $ git init
