@@ -89,3 +89,8 @@ Hi psycho815! You've successfully authenticated, but GitHub does not provide sll
         $ git push origin master
 
 注意：线上更改时先执行 $ git pull
+
+
+## 命令
+- $ git add -u film (单独提交某个文件夹或者文件/比如my-life下面的film修改了)
+- $ git diff （显示修改的部分）
