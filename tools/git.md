@@ -20,7 +20,7 @@
 - **$ git commit -m 'first commit'**
 - **$ git push origin master**
 
-# <span id="part1">安装使用</span>
+# <span id="part1">安装使用 </span>
 
 **步骤一：**在github创建新的repository仓库例如：'hello-world'
 
