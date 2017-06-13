@@ -3,7 +3,6 @@
 - [实践操作命令](#part3)
 
 
-
 # git
 
 - **$ git init** 新建repository文件后执行 
@@ -20,6 +19,7 @@
 - **$ git commit -m 'first commit'**
 - **$ git push origin master**
 
+***
 <h3 id="part1"> 安装使用 </h3>
 
 **步骤一：**在github创建新的repository仓库例如：'hello-world'
