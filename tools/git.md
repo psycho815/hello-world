@@ -20,9 +20,8 @@
 - **$ git commit -m 'first commit'**
 - **$ git push origin master**
 
-# 安装使用
+<h3 id="part1"> 安装使用 </h3>
 
-<span id="part1"> 安装使用 </span>
 **步骤一：**在github创建新的repository仓库例如：'hello-world'
 
 步骤二：安装git客户端 
@@ -71,7 +70,7 @@ Hi psycho815! You've successfully authenticated, but GitHub does not provide sll
 
 ***
 
-# <span id="part2">创建一个repository流程</span>
+<h3 id="part2">创建一个repository流程</h3>
 
 1. 在github上新建 “New repository”，例如：articles
 2. 本地目录新建articles，并右键'Git Bush Here'执行
@@ -98,6 +97,6 @@ Hi psycho815! You've successfully authenticated, but GitHub does not provide sll
 注意：线上更改时先执行 $ git pull
 
 
-# <span id="part3">实践操作命令</span>
+<h3 id="part3">实践操作命令</h3>
 - $ git add -u film (单独提交某个文件夹或者文件/比如my-life下面的film修改了)
 - $ git diff （显示修改的部分）
